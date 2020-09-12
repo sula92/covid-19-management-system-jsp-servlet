@@ -7,7 +7,6 @@ Web Application that can be used to manage all the covid 19 based information an
 
 ##### TECHNOLOGY STACK:
 
-* Spring Framework
 * JSP
 * Servlet
 * Java SE8
@@ -19,7 +18,6 @@ Web Application that can be used to manage all the covid 19 based information an
 * w3css
 * Google Charts
 * MySQL
-* SpringJDBC
 * Font Awesom
 
 ##### PREREQUISITES:
