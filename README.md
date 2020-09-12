@@ -72,18 +72,18 @@ Java location: The installer will provide a default JRE to use to run the servic
 Tray icon: When Tomcat is run as a service, there will not be any tray icon present when Tomcat is running. Note that when choosing to run Tomcat at the end of installation, the tray icon will be used even if Tomcat was installed as a service.
 Defaults: The defaults used by the installer may be overridden by use of the /C=<config file> command line argument. The configuration file uses the format name=value with each pair on a separate line. The names of the available configuration options are:
 JavaHome
-*TomcatPortShutdown
-*TomcatPortHttp
-*TomcatMenuEntriesEnable
-*TomcatShortcutAllUsers
-*TomcatServiceDefaultName
-*TomcatServiceName
-*TomcatServiceFileName
-*TomcatServiceManagerFileName
-*TomcatAdminEnable
-*TomcatAdminUsername
-*TomcatAdminPassword
-*TomcatAdminRoles
+TomcatPortShutdown
+TomcatPortHttp
+TomcatMenuEntriesEnable
+TomcatShortcutAllUsers
+TomcatServiceDefaultName
+TomcatServiceName
+TomcatServiceFileName
+TomcatServiceManagerFileName
+TomcatAdminEnable
+TomcatAdminUsername
+TomcatAdminPassword
+TomcatAdminRoles
 By using /C=... along with /S and /D= it is possible to perform fully configured unattended installs of Apache Tomcat.
 Refer to the Windows Service How-To for information on how to manage Tomcat as a Windows service.
 The installer will create shortcuts allowing starting and configuring Tomcat. It is important to note that the Tomcat administration web application can only be used when Tomcat is running.
@@ -95,11 +95,11 @@ proposed features that has been planned to add in the future are Barcode Generat
 
 ##### CONTRIBUTION:
 
-*1.Fork the Project
-*2.Create your Feature Branch (git checkout -b feature/AmazingFeature)
-*3.Commit your Changes (git commit -m 'Add some AmazingFeature')
-*4.Push to the Branch (git push origin feature/AmazingFeature)
-*5.Open a Pull Request
+1.Fork the Project
+2.Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3.Commit your Changes (git commit -m 'Add some AmazingFeature')
+4.Push to the Branch (git push origin feature/AmazingFeature)
+5.Open a Pull Request
 
 ##### USAGE:
 
@@ -114,11 +114,11 @@ Project Link: https://github.com/sula92/Library-spring-jdbc-template-xmlconfig.g
 
 ##### ACKNOWLEDGEMENT:
 
-*Choose an Open Source License
-*GitHub Pages
-*Font Awesome
+* Choose an Open Source License
+* GitHub Pages
+* Font Awesome
 
 ##### LICENSE:
 
-*Distributed under the MIT License. See LICENSE for more information.
-*https://github.com/sula92/covid-19-management-system-jsp-servlet/blob/master/LICENSE
+* Distributed under the MIT License. See LICENSE for more information.
+* https://github.com/sula92/covid-19-management-system-jsp-servlet/blob/master/LICENSE
