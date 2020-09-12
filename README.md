@@ -109,8 +109,8 @@ https://youtu.be/8xVu-eL8T8w
 
 ##### SUPPORT:
 
-Sulakkhana Dissanayake - sulkkanaid@gmail.com
-Project Link: https://github.com/sula92/Library-spring-jdbc-template-xmlconfig.git
+* Sulakkhana Dissanayake - sulkkanaid@gmail.com
+* Project Link: https://github.com/sula92/Library-spring-jdbc-template-xmlconfig.git
 
 ##### ACKNOWLEDGEMENT:
 
@@ -120,5 +120,5 @@ Project Link: https://github.com/sula92/Library-spring-jdbc-template-xmlconfig.g
 
 ##### LICENSE:
 
-* Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See LICENSE for more information.
 * https://github.com/sula92/covid-19-management-system-jsp-servlet/blob/master/LICENSE
