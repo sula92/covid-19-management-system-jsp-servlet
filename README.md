@@ -91,7 +91,7 @@ The installer will create shortcuts allowing starting and configuring Tomcat. It
 
 ##### RODMAP:
 
-proposed features that has been planned to add in the future are Barcode Generator and a reader in order to uniquely identify the members and books.
+proposed features that has been planned to add in the future are more sections such as patients, suspects and impronve the security by adding sessions.
 
 ##### CONTRIBUTION:
 
