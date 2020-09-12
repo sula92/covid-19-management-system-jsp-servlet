@@ -121,3 +121,4 @@ Font Awesome
 ##### LICENSE:
 
 Distributed under the MIT License. See LICENSE for more information.
+https://github.com/sula92/covid-19-management-system-jsp-servlet/blob/master/LICENSE
