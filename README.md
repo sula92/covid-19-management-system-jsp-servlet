@@ -1,11 +1,11 @@
 ﻿# Covid-19 Management System
 
 
-###### ABOUT THE PROJECT:
+##### ABOUT THE PROJECT:
 
 Web Application that can be used to manage all the covid 19 based information and activities. This system is able to demonstrate bar & pi charts as well. 
 
-###### TECHNOLOGY STACK:
+##### TECHNOLOGY STACK:
 
 Spring Framework
 JSP
@@ -22,7 +22,7 @@ MySQL
 SpringJDBC
 Font Awesom
 
-###### PREREQUISITES:
+##### PREREQUISITES:
 
 Fisrt of all you need to setup the java enviroment on your pc. 
 
@@ -89,11 +89,11 @@ Refer to the Windows Service How-To for information on how to manage Tomcat as a
 The installer will create shortcuts allowing starting and configuring Tomcat. It is important to note that the Tomcat administration web application can only be used when Tomcat is running.
 
 
-###### RODMAP:
+##### RODMAP:
 
 proposed features that has been planned to add in the future are Barcode Generator and a reader in order to uniquely identify the members and books.
 
-###### CONTRIBUTION:
+##### CONTRIBUTION:
 
 1.Fork the Project
 2.Create your Feature Branch (git checkout -b feature/AmazingFeature)
@@ -101,23 +101,23 @@ proposed features that has been planned to add in the future are Barcode Generat
 4.Push to the Branch (git push origin feature/AmazingFeature)
 5.Open a Pull Request
 
-###### USAGE:
+##### USAGE:
 
 Please follow this link given below.
 
 https://youtu.be/8xVu-eL8T8w
 
-# SUPPORT:
+##### SUPPORT:
 
 Sulakkhana Dissanayake - sulkkanaid@gmail.com
 Project Link: https://github.com/sula92/Library-spring-jdbc-template-xmlconfig.git
 
-###### ACKNOWLEDGEMENT:
+##### ACKNOWLEDGEMENT:
 
 Choose an Open Source License
 GitHub Pages
 Font Awesome
 
-###### LICENSE:
+##### LICENSE:
 
 Distributed under the MIT License. See LICENSE for more information.
