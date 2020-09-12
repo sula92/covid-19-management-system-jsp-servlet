@@ -7,20 +7,20 @@ Web Application that can be used to manage all the covid 19 based information an
 
 ##### TECHNOLOGY STACK:
 
-Spring Framework
-JSP
-Servlet
-Java SE8
-HTML5
-CSS3
-Java Script
-Jquery
-Bootstrap
-w3css
-Google Charts
-MySQL
-SpringJDBC
-Font Awesom
+* Spring Framework
+* JSP
+* Servlet
+* Java SE8
+* HTML5
+* CSS3
+* Java Script
+* Jquery
+* Bootstrap
+* w3css
+* Google Charts
+* MySQL
+* SpringJDBC
+* Font Awesom
 
 ##### PREREQUISITES:
 
@@ -72,18 +72,18 @@ Java location: The installer will provide a default JRE to use to run the servic
 Tray icon: When Tomcat is run as a service, there will not be any tray icon present when Tomcat is running. Note that when choosing to run Tomcat at the end of installation, the tray icon will be used even if Tomcat was installed as a service.
 Defaults: The defaults used by the installer may be overridden by use of the /C=<config file> command line argument. The configuration file uses the format name=value with each pair on a separate line. The names of the available configuration options are:
 JavaHome
-TomcatPortShutdown
-TomcatPortHttp
-TomcatMenuEntriesEnable
-TomcatShortcutAllUsers
-TomcatServiceDefaultName
-TomcatServiceName
-TomcatServiceFileName
-TomcatServiceManagerFileName
-TomcatAdminEnable
-TomcatAdminUsername
-TomcatAdminPassword
-TomcatAdminRoles
+* TomcatPortShutdown
+* TomcatPortHttp
+* TomcatMenuEntriesEnable
+* TomcatShortcutAllUsers
+* TomcatServiceDefaultName
+* TomcatServiceName
+* TomcatServiceFileName
+* TomcatServiceManagerFileName
+* TomcatAdminEnable
+* TomcatAdminUsername
+* TomcatAdminPassword
+* TomcatAdminRoles
 By using /C=... along with /S and /D= it is possible to perform fully configured unattended installs of Apache Tomcat.
 Refer to the Windows Service How-To for information on how to manage Tomcat as a Windows service.
 The installer will create shortcuts allowing starting and configuring Tomcat. It is important to note that the Tomcat administration web application can only be used when Tomcat is running.
